@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/WaitScene.unity
+    guid: 8d062e33b4a6ad549ad7e24fe3ca592c
+  - enabled: 1
+    path: Assets/Scenes/TicTacToeScene.unity
+    guid: 29a40431ca6f76e4ba4c9aa3d3071e86
+  - enabled: 1
+    path: Assets/Scenes/CreditsScene.unity
+    guid: 8a9aa288f5f75e0409cce7a16d207945
+  m_configObjects: {}
